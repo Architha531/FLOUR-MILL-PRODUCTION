@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": "C:/batch 13"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "FirstMySQLConnection",
+				"database": "myregister",
+				"username": "mysql",
+				"password": "mysql"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "mysqlconnection",
+				"database": "myregister",
+				"username": "admin"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "firstmysqlconnection",
+				"database": "myregister",
+				"username": "admin"
+			}
+		]
+	}
+}
